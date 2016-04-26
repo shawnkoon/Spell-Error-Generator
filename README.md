@@ -19,7 +19,9 @@ The test Run.
 Plese Enter the CORRECT SENTENCE: I am good at spelling!
 
 The possible errored sentence: I am good ta spelling!
+
 The possible errored sentence: I amm good at spelling!
+
 The possible errored sentence: I am good at spwlling!
 
 Press Enter to continue...
